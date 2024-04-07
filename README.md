@@ -12,7 +12,7 @@
 - [Recommendations](#recommendations)
 - [Limitations](#limitations)
 
-### Project Overview 
+### Project Overview
 
 This project aims to analyze brewery data to gain insights into the brewery landscape across different states and cities in the United States. Through this analysis, actionable insights will be developed to inform strategic decision-making for stakeholders in the brewery industry, including policymakers, investors, and brewery owners. Ultimately, the goal is to support informed decision-making and facilitate future growth within the brewery sector.
 
@@ -49,7 +49,7 @@ EDA involved exploring the breweries data to answer key questions, such as:
 
 ### Data Analysis 
 
-Some Interesting code I worked with
+Some Interesting code I worked with 😄
 
 ``` Jupyter(Python)
 Breweries_by_state = df.groupby('province')['name'].count().reset_index()
@@ -73,6 +73,7 @@ The analysis results are summarized as follows:
 - The analysis of the number of unique industry categories associated with each brewery reveals valuable insights into the diversity and specialization within the brewery industry. Breweries with a higher number of unique industry categories offer a diverse range of products or services, potentially appealing to a wider audience. Conversely, breweries associated with fewer unique industry categories may be more specialized or focused in their offerings. Additionally, breweries branching out into various categories may indicate efforts to adapt to changing consumer preferences and attract a broader customer base, providing them with a competitive advantage in the market.
 
 ### Recommendations
+
 Based on the analysis conducted on the brewery landscape in the USA, I recommened the following actions:
 
 1. Market Segmentation: Segment the brewery market based on geographical distribution and consumer preferences within each region. Tailor marketing strategies and product offerings to meet the unique demands of different demographic segments and geographic areas.
@@ -86,4 +87,9 @@ Based on the analysis conducted on the brewery landscape in the USA, I recommene
 5. Innovation and Differentiation: Continuously innovate and differentiate your brewery offerings to stand out in a crowded market. Experiment with new beer styles, ingredients, and brewing techniques to appeal to evolving consumer tastes. Embrace sustainability practices and socially responsible initiatives to resonate with environmentally conscious consumers.
 
 ### Limitations
+
 I had to remove the menus column because it was empty and was not necessary for my analysis. Removing empty columns can help reduce unnecessary complexity in the dataset, making it easier to work with and interpret the remaining data.
+
+
+
+
