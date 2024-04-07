@@ -38,6 +38,9 @@ In the intital data preparion phase, I performed the following task:
 EDA involved exploring the breweries data to answer key questions, such as:
 
 - What is the number of breweries in each state?
+![Breweries by State](https://github.com/Xtomiwa/Breweries-Pubs-Data/assets/112486285/22c55809-f1d4-43a9-a52d-88ff2fa67ddd)
+
+
 - What are the cities with the most brew hubs per person?
 - What are the states with the most breweries per person?
 - What are the top cities for breweries?
