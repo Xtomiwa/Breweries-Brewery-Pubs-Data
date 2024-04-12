@@ -28,7 +28,7 @@ Python(Jupyter)
 
 ### Data Cleaning
 
-In the intital data preparation phase, I performed the following task:
+In the intital data cleaning and preparation phase, I performed the following task:
 1. Data loading and inspection.
 2. Handling missing values.
 3. Data Cleaning and Formatting.
